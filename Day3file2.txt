@@ -1,0 +1,10 @@
+Welcome to Day 3 Practice 2!
+
+In this file, you can add notes, code snippets, or any other information related to your daily practice. Feel free to experiment with different concepts and ideas.
+
+Today's focus:
+- Exploring new programming concepts
+- Trying out code exercises
+- Documenting your learning journey
+
+Remember to stay curious and enjoy the process of learning. Happy coding!
