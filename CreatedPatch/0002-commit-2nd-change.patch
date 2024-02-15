@@ -1,0 +1,28 @@
+From b76d1e9518b10ad6d0414b6f709e2e2904ba944c Mon Sep 17 00:00:00 2001
+From: SunaMadhu16 <159513282+SunaMadhu16@users.noreply.github.com>
+Date: Thu, 15 Feb 2024 16:35:20 +0530
+Subject: [PATCH 2/2] commit 2nd change
+
+---
+ Day3file2.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/Day3file2.txt b/Day3file2.txt
+index 8821341..b3eecd9 100644
+--- a/Day3file2.txt
++++ b/Day3file2.txt
+@@ -12,4 +12,8 @@ Remember to stay curious and enjoy the process of learning. Happy coding!
+ Ok, Thank you.......
+ 
+ 
+-1. I am going to change this file....
+\ No newline at end of file
++1. I am going to change this file....
++
++
++
++2. I am going to change his file 2nd time...
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+
